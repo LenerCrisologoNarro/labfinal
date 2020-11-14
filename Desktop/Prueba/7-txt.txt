@@ -1,0 +1,62 @@
+>>>crear el repositorio de nuestro proyecto
+>>>git init
+>>>git clone https://frankibitk@bitbucket.org/frankibitk/workers.git
+paswor push:
+Q@CEfT3@9V_?8Wz
+>>> entramos al proyecto: cd w
+>>> npm init   <creara las especificacion del proyecto, dacuerdo al repositorio; CLAVE: 78ar4reA, y los guardara en el index.js
+
+
+	este paso es si queremos trser el repositorio a nuestro local-s
+	>>> git remote add origin
+	>>> git pull : llama al repo 
+
+>>> git pull origin master
+>>> verificamos si estamos en el master <<< git log
+
+EMPECEMOS
+
+[git add .]
+[GIT COMMIT -M "ESFSECSECFESFC"
+[git push]
+[git log]
+
+______________________________________
+definir servidor web(Desarrollo-lite serve):
+$ npm install lite-server --save-dev
+creamos el .gitingnore
+
+
+ y agregue una entrada de "script" dentro del package.jsonarchivo de su proyecto :
+
+# Dentro de package.json ...
+   " scripts " : {
+     "dev" : " lite-server " 
+  },
+
+Con la entrada de script anterior, puede comenzar a lite-servertravés de:
+
+$ npm run dev
+
+git trakeando solo lo importan:
+en el gitignore hacemos:
+
+node_modules
+
+>>> git add .
+>>> git status
+>>> git push origin master
+paswor push:
+la fuerza t3 4compañ3
+
+>>> git log
+
+
+git config --global user.name FrankiEliBrionesPrieto
+
+git config --global user.email fbrionesp14@unc.edu.pe
+
+
+______________________________________
+
+definir servidor web(Producion-Pro serve):
